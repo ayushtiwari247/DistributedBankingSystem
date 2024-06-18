@@ -1,2 +1,2 @@
 # DistributedBankingSystem
- Scalable online banking system
+ Scalable online banking system.
